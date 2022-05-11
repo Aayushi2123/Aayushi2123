@@ -4,10 +4,9 @@
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
 
 
-### Hi there, I'm [Aayushi Gupta](https://www.linkedin.com/in/ankush-kumar-06b22b191/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Hi there, I'm [Aayushi Gupta](https://www.linkedin.com/in/ayushi-gupta-619a33206/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-I am an intermediate back-end developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
-
+I am a student at the College Of Engineering Roorkee, with a major in Computer Science. I have a passion for computer programming and information technology. I have used computer programming since I was in grade school. This passion has given me the ability to develop programs for a multitude of things programming languages, and databases.
 
 - 💻 {( Currently working as a back-end developer at [YouthIndiaFoundation](https://www.youthindiafoundation.com/)-NewDelhi, it is a type of [NGO](https://en.wikipedia.org/wiki/Non-governmental_organization) and our team is currently working on a project named as YIE-       School. )}
 - 🧑‍ {( I have always had the ability to look at things from a different perspective and try to find something new in them. I hope that with every new day, I get more than one chance to learn everything, which will make me very happy. New technologies have always been an inspiration to learn and at the same time get an opportunity to learn something from them. )}
